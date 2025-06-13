@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ecofit.png</file>
+        <file>images/humidite.png</file>
+        <file>images/temperature.jpg</file>
+    </qresource>
+</RCC>
